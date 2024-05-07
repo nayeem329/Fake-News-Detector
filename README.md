@@ -70,7 +70,7 @@ streamlit run app.py
 - Streamlit (Optional)
 
 # Dataset
-The project uses the Fake News Dataset, specifically the Train.csv file, which is uploaded directly to this repository. This dataset contains thousands of news articles labeled as either fake or real.
+To access the dataset for this project, please visit the following link: [Fake News Dataset on Kaggle](https://www.kaggle.com/c/fake-news/data?select=train.csv). From there, you can download the `train.csv` file, which contains the dataset needed for this project.
 
 # Preprocessing
 The text data is preprocessed by removing stopwords, stemming words, and vectorizing text using TF-IDF (Term Frequency-Inverse Document Frequency) representation.
