@@ -4,6 +4,10 @@
 
 Fake News Detector is a machine learning project designed to identify and classify fake news articles from real ones. The project utilizes natural language processing (NLP) techniques and a logistic regression model to analyze text data and make predictions on the authenticity of news articles.
 
+
+![4-Figure1-1](https://github.com/nayeem329/Fake-News-Detector/assets/153347543/da0798f2-b3de-45bf-8866-6933be4e2fd6)
+
+
 ## Table of Contents
 
 - [Overview](#overview)
